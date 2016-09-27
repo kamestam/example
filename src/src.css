@@ -1,0 +1,22 @@
+.src-left {
+    float: left;
+    max-width: 45%;
+}
+
+.src-right {
+    float: right;
+    max-width: 45%;
+}
+
+.src-mark {
+    background: transparent;
+    border-bottom: 2px solid #ba1000;
+}
+
+.src-code {
+    padding: 2px;
+    border-radius: 2px;
+
+    color: #f0f0f0;
+    background: #0a0a0a;
+}
